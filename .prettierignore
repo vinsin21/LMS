@@ -1,0 +1,13 @@
+/node_modules
+/.vscode
+./dist
+
+/.git
+/.svn
+
+.prettierrc
+.eslintrc.js
+
+*.env
+.env
+.env*
